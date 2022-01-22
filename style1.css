@@ -21,7 +21,8 @@ h1 img{
 }
 .box
 {
-    display: flex;
+    display: inline-block;
+    text-align: center;
     justify-content: space-around;
 
 }
