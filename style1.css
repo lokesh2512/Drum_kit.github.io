@@ -82,6 +82,13 @@ footer p{
     margin-top: 50px;
     color: white;
 }
+@media screen and (min-width: 700px) {
+  .box{
+    display: flex;
+    flex-direction: row;
+  }
+  
+}
 
 
 
